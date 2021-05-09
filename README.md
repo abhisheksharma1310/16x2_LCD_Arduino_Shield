@@ -4,8 +4,9 @@ This is an Arduino shield that fits on the top of Arduino, It contains a 16x2 LC
 Top view
 <img src="https://github.com/princeabhishek/16x2_LCD_Arduino_Shield/blob/main/16x2_LCD_Arduino_Shield_PCB_top.png?raw=true">
 
-Buttom view
+Bottom view
 <img src="https://github.com/princeabhishek/16x2_LCD_Arduino_Shield/blob/main/16x2_LCD_Arduino_Shield_PCB_bottom.png?raw=true">
 
 Schematic
+
 <img src="https://github.com/princeabhishek/16x2_LCD_Arduino_Shield/blob/main/16x2_LCD_Arduino_Shield_Schematic.png?raw=true">
